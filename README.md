@@ -107,13 +107,6 @@ Transactions made by European cardholders in September 2013.
 
 ##  Author
 
-**Nawfal Benhamdane** 
-
-Machine Learning Student at CentraleSupélec
-
-📧 [nawfal.benhamdane@student-cs.fr]  
-🌐 [LinkedIn](https://linkedin.com/in/nawfal-benhamdane-6298b1285//) | [GitHub](https://github.com/NawfalBenhamdane)
-
 **Mohamed BENKIRANE** 
 
 Machine Learning Student at CentraleSupélec
@@ -121,5 +114,11 @@ Machine Learning Student at CentraleSupélec
 📧 [mohamed.benkirane@student-cs.fr]  
 🌐 [LinkedIn](https://www.linkedin.com/in/benkirane10/) | [GitHub](https://github.com/simobenk)
 
+**Nawfal Benhamdane** 
+
+Machine Learning Student at CentraleSupélec
+
+📧 [nawfal.benhamdane@student-cs.fr]  
+🌐 [LinkedIn](https://linkedin.com/in/nawfal-benhamdane-6298b1285//) | [GitHub](https://github.com/NawfalBenhamdane)
 
 
